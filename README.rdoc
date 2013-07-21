@@ -1,0 +1,6 @@
+== Simple Authentication w/ Rails 4
+
+I felt as thought I was cheating myself by using the Devise engine for authentication; wanted to dive deeper.
+
+Inspired by Authentication from Scratch:
+http://railscasts.com/episodes/250-authentication-from-scratch
